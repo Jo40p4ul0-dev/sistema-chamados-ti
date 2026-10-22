@@ -1,4 +1,4 @@
-package chamados;
+package sistema_chamados_ti;
 import java.util.Scanner;
 
 public class Main {

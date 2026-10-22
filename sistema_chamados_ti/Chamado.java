@@ -1,4 +1,4 @@
-package chamados;
+package sistema_chamados_ti;
 public class Chamado {
     private int id;
     private String titulo;

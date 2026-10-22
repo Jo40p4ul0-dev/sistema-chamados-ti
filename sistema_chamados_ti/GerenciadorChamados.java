@@ -1,4 +1,4 @@
-package chamados;
+package sistema_chamados_ti;
 import java.util.ArrayList;
 
 public class GerenciadorChamados {
